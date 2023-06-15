@@ -1,0 +1,33 @@
+git init
+git config --global user.name""
+git config --global user.email""
+git config -- global --unset user.name""
+git config --global --unset user.email""
+ 
+git clone [path url]
+
+touch file name
+git add filename
+git status
+ git commit -m"label name"
+git log
+git show
+
+git push[to move to central repository]
+
+
+www.github.com
+
+create repository
+readme file
+public[if private only the permisiion can be given to 3 peaple only]
+
+touch file names[n]
+git add * or add. or add -A[ to add multiple files]
+git commit -m"label"
+git log
+git show
+git push
+
+
+
