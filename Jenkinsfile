@@ -6,7 +6,7 @@ stages{
    stage("build"){
   steps{
 }
-
+   }
 stage("test"){
 steps{
 echo "testing the application"
